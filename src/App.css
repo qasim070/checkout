@@ -37,6 +37,15 @@
   }
 }
 
+.flex.flex-wrap.w-full {
+  padding: 20px 100px 0px;
+}
+
+@media (max-width:540px) {
+  .flex.flex-wrap.w-full {
+    padding: 20px 15px 0px;
+  }
+}
 .paypal-btn {
   border: 1px solid #ebebeb;
   display: flex;

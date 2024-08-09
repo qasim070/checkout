@@ -5,9 +5,6 @@ const Checkout = () => {
     <>
       <div
         class="flex flex-wrap w-full"
-        style={{
-          padding: "20px 100px 0px 100px",
-        }}
       >
         <div class="w-full lg:w-7/12">
           <div className="paypal-btn">
